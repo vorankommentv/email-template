@@ -1,6 +1,6 @@
 # Simple Email Template
 
-![](https://github.com/devTwitchiger/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
+![image](https://github.com/devTwitchiger/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
 
 Pretty simple, right. 😄
 
