@@ -4,7 +4,7 @@
 
 Pretty simple, right. 😄
 
-**[Preview](https://devtwitchiger.github.io/email-template/)**
+**[Preview](https://devtwitchiger.github.io/email-template/email.html)**
 
 ## Check Out [My Website](http://twitchiger.gq/)
 
