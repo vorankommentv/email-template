@@ -4,6 +4,8 @@
 
 Pretty simple, right. 😄
 
+**[Preview](https://devtwitchiger.github.io/email-template/)**
+
 ## Check Out [My Website](http://twitchiger.gq/)
 
 send me an [E-Mail](mailto:twitchiger@duck.com) for questions **OR** send me an dm on discord - @twitchiger
