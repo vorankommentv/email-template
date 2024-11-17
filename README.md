@@ -1,11 +1,11 @@
 # Simple Email Template
 
-![image](https://github.com/devTwitchiger/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
+![image](https://github.com/vorrankommenTV/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
 
 Pretty simple, right. 😄
 
-**[Preview](https://devtwitchiger.github.io/email-template/email.html)**
+**[Preview](https://vorankommenTV.github.io/email-template/email.html)**
 
-## Check Out [My Website](http://twitchiger.gq/)
+## Check Out [My Website](http://vorrankommen.me/)
 
-send me an [E-Mail](mailto:twitchiger@duck.com) for questions **OR** send me an dm on discord - @twitchiger
+send me an [E-Mail](mailto:mail@vorrankommen.me) for questions **OR** send me an dm on discord - @vorrankommen.
