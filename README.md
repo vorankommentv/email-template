@@ -1,6 +1,6 @@
 # Simple Email Template
 
-![image](https://github.com/vorrankommenTV/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
+![image](https://github.com/devtwitchiger/email-template/assets/137188602/1c949c1a-4b5e-4518-ba73-b3eee0e97583)
 
 Pretty simple, right. 😄
 
